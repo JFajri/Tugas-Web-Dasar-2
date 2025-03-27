@@ -1,0 +1,51 @@
+body{
+	font-family: "Roboto", system-ui;
+	font-size: 1em;
+			}
+.header{
+	background-color:#bc4b00;
+	padding: 30px;
+	text-align: center;
+	color:white;
+}
+.sidebar{
+	background-color: #4898fb;
+	width: 20%;
+	height: 300px;
+	float: left;
+}
+.main{
+	background-color: white;
+	width: 80%;
+	height: 300px;
+	float: left;
+}
+.footer{
+	background-color: #bc4b00;
+	text-align: center;
+	padding: 15px;
+	clear: both;
+	color: white;
+}
+.white {
+	color:white;
+}
+.black {
+	color:black;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+ a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+a:active {
+    color: green;
+}
